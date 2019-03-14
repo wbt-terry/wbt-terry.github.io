@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 测试博客
-category: test
-tags: [test]
+category: spring
+tags: [spring]
 ---
-
 ## 段落1
 段落1
 ### 段落1-1
